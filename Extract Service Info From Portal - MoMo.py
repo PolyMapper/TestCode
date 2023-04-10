@@ -659,10 +659,8 @@ def format_excel(xl_path, sheet_name, row_count, col_count):
 def run_extract_info(excel_report_output):
 
     # credentails
-    # pw = "a&En<j8("
-    # un = "tokenGenerator"
-    pw = "Persol_76"
-    un = "NSAdmin"
+    pw = "pw"
+    un = "un"
 
     portal = r"https://onemap-northsea-uk.bpglobal.com/portal"
 
